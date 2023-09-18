@@ -23,7 +23,6 @@
     "styled-components": "^5.3.9"
   },
   "devDependencies": {
-    "@sanity/eslint-config-studio": "3.0.1",
     "autoprefixer": "10.4.15",
     "@types/node": "20.6.2",
     "@types/react": "18.2.21",
