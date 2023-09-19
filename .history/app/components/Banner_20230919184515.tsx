@@ -10,12 +10,9 @@ function Banner() {
         </h3>
       </div>
       <p className="mt-5 md:mt-2 text-gray-400 max-w-sm">
-        &quot;Hello, I&apos;m Gao Hang, an artist and educator. I graduated in
-        Oil Painting from Lu Xun Academy of Fine Arts in 2015 and earned a
-        Master&apos;s in Fine Art from RMIT in 2021. I&apos;ve been teaching art
-        since 2016, fostering creativity and talent. I believe in the
-        transformative power of art and am here to support you on your artistic
-        journey.&quot;
+      "Hello, I'm Gao Hang, an artist and educator. I graduated from the Oil Painting Department of Lu Xun Academy of Fine Arts in 2015 and completed my Master's Degree in Fine Art at RMIT in 2021.
+
+From 2016 to 2019, I taught painting to a wide range of students, and in 2020, I continued teaching at M78 Art Studio. My mission is to inspire creativity and nurture artistic talents. I believe in the transformative power of art, and I'm here to guide and support you on your artistic journey."
       </p>
     </div>
   );
