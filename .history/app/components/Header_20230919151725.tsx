@@ -15,9 +15,7 @@ function Header() {
         </Link>
       </div>
       <div className="flex space-x-4 items-center justify-between">
-        <h1 className="hidden sm:block md:block">
-          To contact me, click here 👉
-        </h1>
+        <h1 h1 class="hidden sm:block">To contact me, click here 👉</h1>
         <a href="mailto:augustehang@gmail.com" target="_blank">
           <svg
             fill="currentColor"
