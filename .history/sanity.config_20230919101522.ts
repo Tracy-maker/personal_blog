@@ -10,9 +10,12 @@ export default defineConfig({
   basePath: "/studio",
   name: "GAO_Content_Studio",
   title: "Gao Content Studio",
+
   projectId,
   dataset,
+
   plugins: [deskTool(), visionTool()],
+
   schema: {
     types: schemaTypes,
   },
